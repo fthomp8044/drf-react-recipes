@@ -10,7 +10,12 @@ django = "*"
 gunicorn = "==19.9.0"
 whitenoise = "==3.3.1"
 dj-database-url = "*"
-
+psycopg2-binary = "*"
+pillow = "*"
+djangorestframework = "*"
+boto3 = "*"
+django-storages = "*"
+django-rest-auth = "*"
 
 [requires]
 python_version = "3.7"
